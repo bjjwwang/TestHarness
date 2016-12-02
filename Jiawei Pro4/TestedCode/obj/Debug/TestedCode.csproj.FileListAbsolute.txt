@@ -1,0 +1,18 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestedCode\bin\Debug\TestedCode.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestedCode\obj\Debug\TestedCode.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestedCode\obj\Debug\TestedCode.csprojResolveAssemblyReference.cache
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\TestedCode\bin\Debug\TestedCode.dll.config
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\TestedCode\bin\Debug\TestedCode.dll
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\TestedCode\obj\Debug\TestedCode.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestedCode\bin\Debug\TestedCode.dll.config
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestedCode\bin\Debug\TestedCode.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestedCode\bin\Debug\TestedCode.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestedCode\obj\Debug\TestedCode.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestedCode\obj\Debug\TestedCode.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestedCode\obj\Debug\TestedCode.csprojResolveAssemblyReference.cache
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestedCode\bin\Debug\TestedCode.dll.config
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestedCode\bin\Debug\TestedCode.dll
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestedCode\bin\Debug\TestedCode.pdb
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestedCode\obj\Debug\TestedCode.csprojResolveAssemblyReference.cache
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestedCode\obj\Debug\TestedCode.dll
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestedCode\obj\Debug\TestedCode.pdb

@@ -1,0 +1,5 @@
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\WPF_GUI\obj\Debug\WPF_GUI.csprojResolveAssemblyReference.cache
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\WPF_GUI\obj\Debug\MainWindow.g.cs
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\WPF_GUI\obj\Debug\App.g.cs
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\WPF_GUI\obj\Debug\WPF_GUI_MarkupCompile.cache
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\WPF_GUI\obj\Debug\WPF_GUI_MarkupCompile.lref

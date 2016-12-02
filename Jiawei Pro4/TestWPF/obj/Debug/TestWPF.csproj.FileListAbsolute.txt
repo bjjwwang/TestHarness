@@ -1,0 +1,125 @@
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\obj\Debug\TestWPF.csprojResolveAssemblyReference.cache
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\obj\Debug\MainWindow.g.cs
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\obj\Debug\App.g.cs
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\obj\Debug\TestWPF_MarkupCompile.cache
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\obj\Debug\TestWPF_MarkupCompile.lref
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\bin\Debug\TestWPF.exe
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\bin\Debug\TestWPF.pdb
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\bin\Debug\ClassLibrary1.dll
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\bin\Debug\CS-BlockingQueue.exe
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\bin\Debug\ITest.dll
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\bin\Debug\Messages.exe
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\bin\Debug\ClassLibrary1.pdb
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\bin\Debug\CS-BlockingQueue.pdb
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\bin\Debug\ITest.pdb
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\bin\Debug\Messages.pdb
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\obj\Debug\MainWindow.baml
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\obj\Debug\TestWPF.g.resources
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\obj\Debug\TestWPF.Properties.Resources.resources
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\obj\Debug\TestWPF.csproj.GenerateResource.Cache
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\obj\Debug\TestWPF.exe
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\obj\Debug\TestWPF.pdb
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\bin\Debug\Client.exe
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\bin\Debug\Logger.dll
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\bin\Debug\Client.pdb
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\TestWPF\bin\Debug\Logger.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\obj\Debug\TestWPF.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\obj\Debug\TestWPF.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\bin\Debug\TestWPF.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\bin\Debug\TestWPF.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\bin\Debug\ClassLibrary1.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\bin\Debug\Client.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\bin\Debug\ITest.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\bin\Debug\Messages.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\bin\Debug\Logger.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\bin\Debug\ClassLibrary1.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\bin\Debug\Client.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\bin\Debug\ITest.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\bin\Debug\Messages.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\bin\Debug\Logger.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\obj\Debug\TestWPF.csprojResolveAssemblyReference.cache
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\obj\Debug\App.g.cs
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\obj\Debug\TestWPF_MarkupCompile.cache
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\obj\Debug\TestWPF_MarkupCompile.lref
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\obj\Debug\MainWindow.baml
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\obj\Debug\TestWPF.g.resources
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\obj\Debug\TestWPF.Properties.Resources.resources
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\TestWPF\obj\Debug\TestWPF.csproj.GenerateResource.Cache
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\obj\Debug\TestWPF.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\obj\Debug\TestWPF.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\bin\Debug\TestWPF.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\bin\Debug\TestWPF.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\bin\Debug\ClassLibrary1.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\bin\Debug\Client.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\bin\Debug\ITest.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\bin\Debug\Messages.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\bin\Debug\Logger.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\bin\Debug\ClassLibrary1.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\bin\Debug\Client.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\bin\Debug\ITest.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\bin\Debug\Messages.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\bin\Debug\Logger.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\obj\Debug\TestWPF.csprojResolveAssemblyReference.cache
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\obj\Debug\App.g.cs
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\obj\Debug\TestWPF_MarkupCompile.cache
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\obj\Debug\TestWPF_MarkupCompile.lref
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\obj\Debug\MainWindow.baml
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\obj\Debug\TestWPF.g.resources
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\obj\Debug\TestWPF.Properties.Resources.resources
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\TestWPF\obj\Debug\TestWPF.csproj.GenerateResource.Cache
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\bin\Debug\TestWPF.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\bin\Debug\TestWPF.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\bin\Debug\ClassLibrary1.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\bin\Debug\Client.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\bin\Debug\ITest.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\bin\Debug\Messages.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\bin\Debug\Logger.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\bin\Debug\ClassLibrary1.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\bin\Debug\Client.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\bin\Debug\ITest.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\bin\Debug\Messages.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\bin\Debug\Logger.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\obj\Debug\TestWPF.csprojResolveAssemblyReference.cache
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\obj\Debug\App.g.cs
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\obj\Debug\TestWPF_MarkupCompile.cache
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\obj\Debug\TestWPF_MarkupCompile.lref
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\obj\Debug\MainWindow.baml
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\obj\Debug\TestWPF.g.resources
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\obj\Debug\TestWPF.Properties.Resources.resources
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\obj\Debug\TestWPF.csproj.GenerateResource.Cache
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\obj\Debug\TestWPF.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\TestWPF\obj\Debug\TestWPF.pdb
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\bin\Debug\TestWPF.exe
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\bin\Debug\TestWPF.pdb
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\bin\Debug\ClassLibrary1.dll
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\bin\Debug\Client.exe
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\bin\Debug\ITest.dll
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\bin\Debug\Messages.exe
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\bin\Debug\Logger.dll
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\bin\Debug\ClassLibrary1.pdb
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\bin\Debug\Client.pdb
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\bin\Debug\ITest.pdb
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\bin\Debug\Messages.pdb
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\bin\Debug\Logger.pdb
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\obj\Debug\TestWPF.csprojResolveAssemblyReference.cache
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\obj\Debug\App.g.cs
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\obj\Debug\TestWPF_MarkupCompile.cache
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\obj\Debug\TestWPF_MarkupCompile.lref
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\obj\Debug\MainWindow.baml
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\obj\Debug\TestWPF.g.resources
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\obj\Debug\TestWPF.Properties.Resources.resources
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\obj\Debug\TestWPF.csproj.GenerateResource.Cache
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\obj\Debug\TestWPF.exe
+C:\Users\Jiawei\Desktop\Jiawei Pro4\TestWPF\obj\Debug\TestWPF.pdb

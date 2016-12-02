@@ -1,0 +1,30 @@
+
+                                             CodeAnalysis
+    ==============================================================================================
+     Fri Dec  2 13:16:23 2016
+     Path: "C:\Users\Jiawei\Desktop\Jiawei Pro4\WPF_GUI"
+     Args: MainWindow.xaml.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1       5
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+        MainWindow.xaml.cs   namespace                            WPF_GUI      17      17       4
+        MainWindow.xaml.cs       class                         MainWindow      22      12       3
+        MainWindow.xaml.cs    function                         MainWindow      24       3       1
+        MainWindow.xaml.cs    function                InitializeComponent      29       3       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     7 dirs
+   processed     1 files

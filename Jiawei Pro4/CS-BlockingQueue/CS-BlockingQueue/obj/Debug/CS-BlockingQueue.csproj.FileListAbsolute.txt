@@ -1,0 +1,39 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe.config
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.csprojResolveAssemblyReference.cache
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe.config
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.pdb
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.csprojResolveAssemblyReference.cache
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.exe
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe.config
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\System.Net.Http.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\System.Net.Http.xml
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.csprojResolveAssemblyReference.cache
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe.config
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\System.Net.Http.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\System.Net.Http.xml
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.csprojResolveAssemblyReference.cache
+C:\Users\Jiawei\Desktop\Jiawei Pro4\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe.config
+C:\Users\Jiawei\Desktop\Jiawei Pro4\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Jiawei\Desktop\Jiawei Pro4\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Jiawei\Desktop\Jiawei Pro4\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\System.Net.Http.dll
+C:\Users\Jiawei\Desktop\Jiawei Pro4\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\System.Net.Http.xml
+C:\Users\Jiawei\Desktop\Jiawei Pro4\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Jiawei\Desktop\Jiawei Pro4\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.csprojResolveAssemblyReference.cache
+C:\Users\Jiawei\Desktop\Jiawei Pro4\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.exe
+C:\Users\Jiawei\Desktop\Jiawei Pro4\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.pdb

@@ -1,0 +1,65 @@
+﻿<Window x:Class="TestWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="connect" Content="Connect Server" HorizontalAlignment="Left" Margin="21,17,0,0" VerticalAlignment="Top" Width="109" Click="connect_Click"/>
+        <Button x:Name="SendMsg" Content="SendMsg" HorizontalAlignment="Left" Margin="232,19,0,0" VerticalAlignment="Top" Width="79" Click="SendMsg_Click"/>
+        <Button x:Name="Browse" Content="Browse" HorizontalAlignment="Left" Margin="420,18,0,0" VerticalAlignment="Top" Width="75" Click="Browse_Click"/>
+        <TabControl x:Name="tabControl" HorizontalAlignment="Left" Height="249" Margin="10,57,0,0" VerticalAlignment="Top" Width="496">
+            <TabItem Header="Test Harness">
+                <Grid Background="#FFE5E5E5">
+                    <TextBox x:Name="ConsoleBox" HorizontalAlignment="Left" Height="179" Margin="15,28,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="183"/>
+                    <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="18,7,0,0" TextWrapping="Wrap" Text="Console" VerticalAlignment="Top" RenderTransformOrigin="0.483,0.458"/>
+                    <ListBox x:Name="TestList" HorizontalAlignment="Left" Height="180" Margin="208,27,0,0" VerticalAlignment="Top" Width="100"/>
+                    <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="207,8,0,0" TextWrapping="Wrap" Text="Test" VerticalAlignment="Top"/>
+                    <TextBlock x:Name="textBlock3" HorizontalAlignment="Left" Margin="322,12,0,0" TextWrapping="Wrap" Text="Author" VerticalAlignment="Top"/>
+                    <TextBox x:Name="authorBox" HorizontalAlignment="Left" Height="23" Margin="368,8,0,0" TextWrapping="Wrap" Text="Fawcett" VerticalAlignment="Top" Width="115"/>
+                    <TextBlock x:Name="textBlock4" HorizontalAlignment="Left" Margin="312,37,0,0" TextWrapping="Wrap" Text="TestName" VerticalAlignment="Top"/>
+                    <TextBox x:Name="testNameBox" HorizontalAlignment="Left" Height="23" Margin="368,35,0,0" TextWrapping="Wrap" Text="Test1" VerticalAlignment="Top" Width="115"/>
+                    <TextBlock x:Name="textblock4" HorizontalAlignment="Left" Margin="313,63,0,0" TextWrapping="Wrap" Text="TestDriver" VerticalAlignment="Top"/>
+                    <TextBox x:Name="tstDrBox" HorizontalAlignment="Left" Height="23" Margin="368,62,0,0" TextWrapping="Wrap" Text="TestDriver.dll" VerticalAlignment="Top" Width="115"/>
+                    <TextBlock x:Name="tstCBox" HorizontalAlignment="Left" Margin="314,91,0,0" TextWrapping="Wrap" Text="TestCode" VerticalAlignment="Top"/>
+                    <TextBox x:Name="tstCdBox" HorizontalAlignment="Left" Height="23" Margin="369,89,0,0" TextWrapping="Wrap" Text="TestedCode.dll" VerticalAlignment="Top" Width="112"/>
+                    <Button x:Name="Add_Code" Content="Add Code" HorizontalAlignment="Left" Margin="408,118,0,0" VerticalAlignment="Top" Width="71" Click="Add_Code_Click"/>
+                    <ListBox x:Name="TestCodeList" HorizontalAlignment="Left" Height="88" Margin="319,119,0,0" VerticalAlignment="Top" Width="83"/>
+                    <Button x:Name="Add_Test" Content="Add Test" HorizontalAlignment="Left" Margin="410,143,0,0" VerticalAlignment="Top" Width="71" Click="Add_Test_Click"/>
+                    <Button x:Name="Clean_Code" Content="Clean Code" HorizontalAlignment="Left" Margin="409,167,0,0" VerticalAlignment="Top" Width="75" Click="Clean_Code_Click"/>
+                    <Button x:Name="Clean_Test" Content="Clean Test" HorizontalAlignment="Left" Margin="408,190,0,0" VerticalAlignment="Top" Width="75" Click="Clean_Test_Click"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Repository">
+                <Grid Background="#FFE5E5E5" Margin="0,-1,0,1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="82*"/>
+                        <ColumnDefinition Width="163*"/>
+                    </Grid.ColumnDefinitions>
+                    <ListBox x:Name="RepolistBox" HorizontalAlignment="Left" Height="187" Margin="9,27,0,0" VerticalAlignment="Top" Width="247" Grid.ColumnSpan="2"/>
+                    <RadioButton x:Name="dllButton" Content=".dll" HorizontalAlignment="Left" Margin="13,8,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Checked="dllButton_Checked"/>
+                    <RadioButton x:Name="logButton" Content=".log" HorizontalAlignment="Left" Margin="57,8,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.484,0.55" Checked="logButton_Checked"/>
+                    <Button x:Name="button" Content="Download" HorizontalAlignment="Left" Margin="124.003,25,0,0" VerticalAlignment="Top" Width="75" Click="DownloadRepo_Click" Grid.Column="1"/>
+                    <Button x:Name="button1" Content="Delete" HorizontalAlignment="Left" Margin="126.003,54,0,0" VerticalAlignment="Top" Width="75" Click="DeleteRepo_Click" Grid.Column="1"/>
+                    <RadioButton x:Name="allButton" Content="(All)" HorizontalAlignment="Left" Margin="110,9,0,0" VerticalAlignment="Top" Checked="allButton_Checked"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Query">
+                <Grid Background="#FFE5E5E5">
+                    <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="18,23,0,0" TextWrapping="Wrap" Text="Keywords" VerticalAlignment="Top" RenderTransformOrigin="0.259,0.019"/>
+                    <TextBox x:Name="SearchText" HorizontalAlignment="Left" Height="23" Margin="20,43,0,0" TextWrapping="Wrap" Text="test1" VerticalAlignment="Top" Width="176" />
+                    <Button x:Name="button2" Content="Search" HorizontalAlignment="Left" Margin="23,75,0,0" VerticalAlignment="Top" Width="75" Click="Search_Click"/>
+                    <ListBox x:Name="QueryResBox" HorizontalAlignment="Left" Height="169" Margin="220,12,0,0" VerticalAlignment="Top" Width="262"/>
+                    <Button x:Name="button3" Content="Download" HorizontalAlignment="Left" Margin="231,191,0,0" VerticalAlignment="Top" Width="75" Click="Download_Click"/>
+                    <Button x:Name="button4" Content="Download All" HorizontalAlignment="Left" Margin="323,191,0,0" VerticalAlignment="Top" Width="75" Click="DownloadAll_Click"/>
+                    <Button x:Name="button5" Content="Delete" HorizontalAlignment="Left" Margin="409,191,0,0" VerticalAlignment="Top" Width="75" Click="DeleteLog_Click"/>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+
+    </Grid>
+</Window>

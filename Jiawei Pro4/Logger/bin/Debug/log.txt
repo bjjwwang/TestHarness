@@ -1,0 +1,10 @@
+
+  Testing Loggers
+ =================
+
+  Demonstrating Logger class
+ ----------------------------
+  first visible log
+  second visible log
+
+  pausing logger - 10/20/2016 7:36:28 PM

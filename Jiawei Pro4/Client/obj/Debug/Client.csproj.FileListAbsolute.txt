@@ -1,0 +1,92 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Client.exe.config
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Client.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Client.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\obj\Debug\Client.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\obj\Debug\Client.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\ITest.dll
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\ITest.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Messages.exe
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Messages.pdb
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\Client\bin\Debug\Client.exe.config
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\Client\bin\Debug\Client.exe
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\Client\bin\Debug\Client.pdb
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\Client\bin\Debug\CS-BlockingQueue.exe
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\Client\bin\Debug\ITest.dll
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\Client\bin\Debug\Logger.dll
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\Client\bin\Debug\Messages.exe
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\Client\bin\Debug\CS-BlockingQueue.pdb
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\Client\bin\Debug\ITest.pdb
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\Client\bin\Debug\Logger.pdb
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\Client\bin\Debug\Messages.pdb
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\Client\obj\Debug\Client.exe
+\\hd.ad.syr.edu\02\10a2ad\Documents\Downloads\InstrSol-Project2 (1)\Client\obj\Debug\Client.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\bin\Debug\Client.exe.config
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\bin\Debug\Client.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\bin\Debug\Client.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\bin\Debug\ITest.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\bin\Debug\Logger.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\bin\Debug\Messages.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\bin\Debug\System.Net.Http.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\bin\Debug\ITest.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\bin\Debug\Logger.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\bin\Debug\Messages.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\bin\Debug\System.Net.Http.xml
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\obj\Debug\Client.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (1)\Client\obj\Debug\Client.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\bin\Debug\Client.exe.config
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\bin\Debug\Client.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\bin\Debug\Client.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\bin\Debug\ITest.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\bin\Debug\Logger.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\bin\Debug\Messages.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\bin\Debug\System.Net.Http.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\bin\Debug\ITest.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\bin\Debug\Logger.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\bin\Debug\Messages.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\bin\Debug\System.Net.Http.xml
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\obj\Debug\Client.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2)\Client\obj\Debug\Client.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\bin\Debug\Client.exe.config
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\bin\Debug\Client.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\bin\Debug\Client.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\bin\Debug\ITest.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\bin\Debug\Logger.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\bin\Debug\Messages.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\bin\Debug\System.Net.Http.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\bin\Debug\ITest.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\bin\Debug\Logger.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\bin\Debug\Messages.pdb
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\bin\Debug\System.Net.Http.xml
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\obj\Debug\Client.exe
+C:\Users\Jiawei\Desktop\InstrSol-Project2 (2) - Copy\Client\obj\Debug\Client.pdb
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\bin\Debug\Client.exe.config
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\bin\Debug\Client.exe
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\bin\Debug\Client.pdb
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\bin\Debug\ITest.dll
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\bin\Debug\Logger.dll
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\bin\Debug\Messages.exe
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\bin\Debug\System.Net.Http.dll
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\bin\Debug\ITest.pdb
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\bin\Debug\Logger.pdb
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\bin\Debug\Messages.pdb
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\bin\Debug\System.Net.Http.xml
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\obj\Debug\Client.exe
+C:\Users\Jiawei\Desktop\Jiawei Pro4\Client\obj\Debug\Client.pdb
